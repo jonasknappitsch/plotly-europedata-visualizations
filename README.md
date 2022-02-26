@@ -1,4 +1,4 @@
-# Europe Demographic Data Visualizations
+# European Demographic Data Visualizations
 Interactive visualization based on Gapminder's GDP-2007 dataset displaying the relationship between GDP Per Capita and Life Expectancy among European countries. Built using Plotly, Pandas and Numpy in Python. 
 
 
